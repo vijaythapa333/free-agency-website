@@ -1,0 +1,75 @@
+
+body{
+	line-height: 30px;
+	color: #576574;
+}
+/*CSS for Banner-Slider Section*/
+.banner-slider{
+	margin-top: 4rem;
+}
+
+/*CSS for About Section*/
+.about{
+	margin-top: 5rem;
+}
+
+.about h2{
+	text-transform: uppercase;
+}
+
+.about .about-box{
+	margin: 2rem 0;
+	padding: 3rem 2rem;
+	box-shadow: 0 0 4px 2px #c8d6e5;
+}
+.about .about-text{
+	margin-top: 3rem;
+}
+.about .about-text h5{
+	margin-bottom: 1rem;
+}
+
+/*CSS for Services Section*/
+.services{
+	margin-top: 5rem;
+}
+.services h2{
+	margin-bottom: 2rem;
+	text-transform: uppercase;
+}
+
+.service-text{
+	position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 1px #7f8fa6;
+}
+
+/*CSS for Blogs Section*/
+.blogs{
+	margin-top: 5rem;
+	padding: 2rem 0 4rem 0;
+	background: url(../../img/bg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.blogs h2{
+	margin-bottom: 2rem;
+	text-transform: uppercase;
+	color: white;
+}
+.contact{
+	margin-top: 5rem;
+}
+.contact i{
+	font-size: 1.5rem;
+	margin-top: 1rem;
+}
+
+/*CSS for Footer Section*/
+footer{
+	margin-top: 5rem;
+}
